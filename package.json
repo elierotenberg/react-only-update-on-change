@@ -1,0 +1,26 @@
+{
+  "name": "react-onlyUpdateOnChange",
+  "version": "0.0.0",
+  "description": "Implementation of React components' shouldComponentUpdate for stateful and propful components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elierotenberg/react-onlyUpdateOnChange.git"
+  },
+  "keywords": [
+    "react",
+    "shouldComponentUpdate"
+  ],
+  "author": "Elie Rotenberg <elie@rotenberg.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elierotenberg/react-onlyUpdateOnChange/issues"
+  },
+  "homepage": "https://github.com/elierotenberg/react-onlyUpdateOnChange",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
